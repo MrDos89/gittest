@@ -57,4 +57,7 @@ git push #기본 원격지 현재 브랜치로 푸시
 ```bash
 git clone https://github.com/MrDos89/gittest.git
 # git clone 원격지 주소
+# 원래 프로젝트를 만들었던 저장소가 아니라면(clone으로 받아온 프로젝트) 현재 저장소 설정을 바꿔야한다.
+# git config user.name "DoHyung Kim"
+# git config user.email mrdos89@gmail.com
 ```
