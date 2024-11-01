@@ -36,3 +36,15 @@ git commit -m "first commit"
 git status # 상태 확인
 git log # 로그 확인
 ```
+
+## Local Git to GitHub
+- GitHub에서 저장소를 생성
+- 저장소 주소
+    - https://github.com/MrDos89/gittest.git
+```bash
+git remote add origin https://github.com/MrDos89/gittest.git
+```
+
+```bash
+git push -u origin master #첫번째 푸시
+```
