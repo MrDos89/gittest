@@ -30,3 +30,9 @@ git add .
 ```bash
 git commit -m "first commit"
 ```
+
+- 상태 확인과 로그 확인
+```bash
+git status # 상태 확인
+git log # 로그 확인
+```
