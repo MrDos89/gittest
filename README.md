@@ -20,3 +20,13 @@ git config user.email mrdos89@gmail.com
 ```bash
 git status
 ```
+
+- staging
+```bash
+git add .
+```
+
+- 저장소에 반영 (commit)
+```bash
+git commit -m "first commit"
+```
