@@ -65,5 +65,3 @@ git clone https://github.com/MrDos89/gittest.git
 ### 반드시 습관이 되어야 하는 것
 - 작업 시작 전 : git pull
 - 작업 종료 후 : git commit and push
-
-test
