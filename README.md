@@ -47,4 +47,5 @@ git remote add origin https://github.com/MrDos89/gittest.git
 
 ```bash
 git push -u origin master #첫번째 푸시
+git push #기본 원격지 현재 브랜치로 푸시
 ```
