@@ -49,3 +49,12 @@ git remote add origin https://github.com/MrDos89/gittest.git
 git push -u origin master #첫번째 푸시
 git push #기본 원격지 현재 브랜치로 푸시
 ```
+
+
+### From Github to Local Git
+- 복제할 원격 저장소 주소 확보
+- 복제
+```bash
+git clone https://github.com/MrDos89/gittest.git
+# git clone 원격지 주소
+```
